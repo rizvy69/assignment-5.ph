@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.brand-gradient {
+  background: linear-gradient(to right, orange, deeppink, violet);
+
+}
+
+.button-gradient {
+  background: linear-gradient(to right, #ff7a18, #ff3d81, #7c3aed);
+  color: white;
+}
